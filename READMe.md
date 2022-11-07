@@ -5,4 +5,8 @@ This is about learn git and Github
 
 ## Subheader
 
-Watch youtube tutorials
+Watch youtube tutorials 
+
+# Local developmen 
+
+Open index in your browser
